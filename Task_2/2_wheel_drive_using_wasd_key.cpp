@@ -21,7 +21,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   analogWrite(ena,200);
-  analogWrite(enb,100);
+  analogWrite(enb,200);
   drive=Serial.readString();
   drive.trim();
 
