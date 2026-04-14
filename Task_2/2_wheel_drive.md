@@ -34,3 +34,4 @@ Input is taken from the user as a string via the Serial Monitor. The string is t
 * **For A (Left):** The left motor spins backward while the right motor spins forward. 
 * **For S (Backward):** Both motors spin backward. 
 * **For D (Right):** The right motor spins backward while the left motor spins forward.
+* **For STOP (Stop):** Both the motors stops spinning
